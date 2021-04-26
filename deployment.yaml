@@ -30,6 +30,6 @@ spec:
       name: angular
     spec:
       containers:
-      - image: spurthiaddagada/swe645frontimage:v1
+      - image: spurthiaddagada/swe645frontendapp:v1
         imagePullPolicy: Always
         name: angular
